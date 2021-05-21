@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "deno.web",
+      "deno.fetch",
+      "deno.window",
+      "deno.shared_globals",
+      "deno.ns",
+      "deno.unstable"
+    ]
+  }
+}
